@@ -74,7 +74,7 @@ public class Main extends Application {
         FileChooser fileChooser = new FileChooser();
         FileChooser.ExtensionFilter extFilter = new FileChooser.ExtensionFilter("TXT files (*.txt)", "*.txt");
         fileChooser.getExtensionFilters().add(extFilter);
-        fileChooser.setInitialDirectory(new File("F:/CODE/PTJ/1219_3_java_gui"));
+        // fileChooser.setInitialDirectory(new File("F:/CODE/PTJ/1219_3_java_gui"));
         File file = fileChooser.showOpenDialog(primaryStage);
         data = new MyData(file);
         sankeyGraphPane.display_data(data);
