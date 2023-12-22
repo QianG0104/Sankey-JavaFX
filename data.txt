@@ -1,0 +1,8 @@
+Sankey Example
+Source
+A 500
+B 450
+C 1310
+D 205
+Extra Target 1 400
+Extra Target 2 160
