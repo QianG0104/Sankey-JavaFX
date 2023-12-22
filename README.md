@@ -3,6 +3,9 @@ A data set is stored in a text file, with the first line serving as the title of
 are a variable number of additional lines, each containing the name of a category along with the corresponding value.
 "data.txt" is an example.
 
+![image](https://github.com/QianG0104/Sankey-JavaFX/blob/main/gui.png)
+
+
 ### JDK and JavaFX
 jdk-16.0.2
 javaFX 16
